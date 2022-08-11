@@ -28,6 +28,9 @@
 //       2,
 //       250,
 //     ],
+        // 'react/function-component-definition': [2, {
+        //     namedComponents: 'arrow-function',
+        // }],
 //     'no-multiple-empty-lines': [
 //       'error',
 //       {
